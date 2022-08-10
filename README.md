@@ -1,2 +1,2 @@
-# bike-haring-emand
+# bike-sharing-demand
 In this project, I'm using the AutoGluon library to train several models for the Bike Sharing Demand competition in Kaggle. 
